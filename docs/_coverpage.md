@@ -13,6 +13,4 @@
 </tr>
 </table>
 
-
-<a href="#/?id=what-is-ship-secure-hybrid-integrated-pipeline" style="background:#42b983;color:white;">Get Started</a>
-[GitHub](https://github.com/bernicecpz/ships_hats_infokit)
+<a href="#/?id=ships-and-hats" style="background:#42b983;color:white;">Get Started</a>
