@@ -1,11 +1,18 @@
 
-![logo](_media/ship_icon.png)
+<table align="center">
+<tr><h1><strong>SHIP and HATS Infokit</strong></h1></tr>
+<tr>
+<td>
+<img src="_media/ship_icon.png">
+</td>
 
-> A Continuous Integration and Continuous Deployment (CI/CD) platform
+<td>
+<img src="_media/hats_icon.png">
+</td>
 
-- Common Development Stack
-- Common Build Environment
-- Release Management
+</tr>
+</table>
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#ship-secure-hybrid-integrated-pipeline)
+
+<a href="#/?id=what-is-ship-secure-hybrid-integrated-pipeline" style="background:#42b983;color:white;">Get Started</a>
+[GitHub](https://github.com/bernicecpz/ships_hats_infokit)

@@ -1,1 +1,0 @@
-# ships_hats_infokit
