@@ -1,6 +1,6 @@
 - [Home](/)
 - SHIP
-    - Technology available on SHIP
+    - Technologies available on SHIP
         - [Software deployment and collaboration](software_more.md)
         - [Security management](security_more.md)
     - [Migration and Support](migration_support.md)
