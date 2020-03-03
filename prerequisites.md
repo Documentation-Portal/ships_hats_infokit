@@ -1,4 +1,4 @@
-# Prerequisites, requirements and support
+# Prerequisites and requirements
 -----------------------------------------
 
 # Prerequisites and requirements
@@ -84,23 +84,63 @@ Xiaomi, Sony, HTC, OnePlus etc
 ***
 
 # White HATS
-<strong><u>Fortify SCA Supported Languages</u></strong>
-- .NET MSBuild
-- .NET Core
-- Gradle 4.x
-- Java 9, 10, 11 & 12
-- Ruby (multiple versions)
-- Python 2.x and 3.x
-- Angular 2, 4, 5, 6 & 7
-- Node.js 10.x
-- TypeScript 3.0, 3.1 and 3.2 o Swift 4.2 / XCode 10
-- Objective-C/C++
-- GoLang
-- React 16.5 Java Script
 
-<strong><u>SonarQube Supported Languages</u></strong>
-- Java, JavaScript, C#, TypeScript, Kotlin, Ruby, Go, Scala, Flex, Python, PHP,
-HTML, CSS, XML, VB.NET & Swift
+<table>
+  <tr>
+    <th style="width:358px"><strong><u>SonarQube Supported Languages</u></strong></th>  
+    <th><strong><u>Fortify SCA Supported Languages</u></strong></th>
+  </tr>
+
+  <tr>
+
+   <td>
+    <ul>
+     <li>Java</li>
+     <li>JavaScript</li>
+     <li>C#</li>
+     <li>TypeScript</li>
+     <li>Kotlin</li>
+     <li>Ruby</li>
+     <li>Go</li>
+     <li>Scala</li>
+     <li>Flex</li>
+     <li>Python</li>
+     <li>PHP</li>
+     <li>HTML</li>
+     <li>CSS</li>
+     <li>XML</li>
+     <li>VB.NET</li>
+     <li>C</li>
+     <li>C++</li>
+     <li>Obj-C</li>
+     <li>Swift</li>
+     <li>ABAP</li>
+     <li>T-SQL</li>
+     <li>PL/SQL Support</li>
+    </ul>   
+   </td>
+
+
+   <td valign="top">
+    <ul>
+      <li> .NET MSBuild </li>
+      <li> .NET Core </li>
+      <li> Gradle 4.x
+      <li> Java 9, 10, 11 & 12 </li>
+      <li> Ruby (multiple versions) </li>
+      <li> Python 2.x and 3.x </li>
+      <li> Angular 2, 4, 5, 6 & 7 </li>
+      <li> Node.js 10.x </li>
+      <li> TypeScript 3.0, 3.1 and 3.2 o Swift 4.2 / XCode 10 </li>
+      <li> Objective<li>C/C++ </li>
+      <li> GoLang </li>
+      <li> React 16.5 Java Script </li>
+    </ul>
+   </td>
+
+  </tr>
+</table>
+
 
 >_For more info on the product info, please refer to Fortify Static Code Analyzer [page](https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview) and SonarQube [page](https://www.sonarsource.com/products/sonarqube/)._
 
