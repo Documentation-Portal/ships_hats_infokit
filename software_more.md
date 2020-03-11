@@ -1,6 +1,5 @@
 # Software deployment and collaboration
 ---------------------------------------
-<img src="_media/bamboo_icon.png" width="80px" height="80px">
 
 ## Bamboo 
 ### Continuous Integration (and Testing)
@@ -15,7 +14,6 @@ Deliver software solutions to production and testing environments to help organi
 For more information on Bamboo, see https://www.atlassian.com/software/bamboo
 
 ***
-<img src="_media/bitbucket_icon.png" width="80px" height="80px">
 
 ## BitBucket
 
@@ -28,7 +26,6 @@ For more information on Bitbucket, see
 - https://bitbucket.org
 
 ***
-<img src="_media/confluence_icon.png" width="80px" height="80px">
 
 ## Confluence
 
@@ -38,8 +35,6 @@ Shared space for collaboration to view, access and manage all tasks and problems
 For more information on Confluence, see https://www.atlassian.com/software/confluence
 
 ***
-
-<img src="_media/jira_icon.png" width="80px" height="80px">
 
 ## JIRA
 
