@@ -15,7 +15,7 @@ Supported on Apple Macintosh / Microsoft Windows:
 - Chrome, Safari
 - Internet Explorer 11, Microsoft Edge, Firefox*
 
- > \* The specific end of support for Internet Explorer 11, Microsoft Edge and Firefox will be at end of September 2020. From October 2020 onwards, only Chrome and Safari would be supported and available. This is applicable to our remote agents and device farms.
+ > \* The new DSS stated agency only need to ensure web-based digital services are compatible with the latest version of Chrome and Safari. As such, the specific end of support for Internet Explorer 11, Microsoft Edge and Firefox will be at end of September 2020. From October 2020 onwards, only Chrome and Safari would be supported and available. This is applicable to our remote agents and device farms.
 
 ## iii) .Net & Java Projects
 ### .Net Projects
@@ -42,7 +42,7 @@ Supported on Apple Macintosh / Microsoft Windows:
  - Internet Explorer 11, Microsoft Edge and Firefox*
  - Testing Framework: Robot Framework with Selenium2Library Or Selenium+Java
 
- > \* The specific end of support for Internet Explorer 11, Microsoft Edge and Firefox will be at end of September 2020. From October 2020 onwards, only Chrome and Safari would be supported and available. This is applicable to our remote agents and device farms.
+ > \* The new DSS stated agency only need to ensure web-based digital services are compatible with the latest version of Chrome and Safari. As such, the specific end of support for Internet Explorer 11, Microsoft Edge and Firefox will be at end of September 2020. From October 2020 onwards, only Chrome and Safari would be supported and available. This is applicable to our remote agents and device farms.
 
 2. <strong>Android</strong>
     - Supported mobile app testing versions: Android Marshmallow 6.0 to 9.0 Pie 
