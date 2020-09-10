@@ -1,8 +1,6 @@
 # Prerequisites and requirements
 -----------------------------------------
 
-# Prerequisites and requirements
-
 ## i) Build agent
 - Microsoft Windows 10 / Windows Server 2016 or 2019
 - Linux (Recommended Ubuntu 18.04 or RHEL 7)
