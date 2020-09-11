@@ -8,8 +8,8 @@
 - Leverage on RobotFramework scripting methodology, a “English-style” scripting language for non-technical roles to create and execute automated test cases.
 - Robotcorder – a Google Chrome extension, helps user to script faster using the recording and playback feature.
 - Device farm, consisting of multiple browsers and mobile devices to run your manual or automated functional testing.
-- Parallel execution of tests across multiple devices and platforms. o Detailed reporting on points of failure and screenshots for
-debugging.
+- Parallel execution of tests across multiple devices and platforms.
+- Detailed reporting on points of failure and screenshots for debugging.
 
 ### How it Works
 <strong><u>Test Scripts Development</u></strong>  
