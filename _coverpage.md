@@ -1,16 +1,8 @@
+# \_coverpage
 
-<table align="center">
-<tr><h1><strong>SHIP and HATS Infokit</strong></h1></tr>
-<tr>
-<td>
-<img src="_media/ship_icon.png">
-</td>
+|  |  |
+| :--- | :--- |
+| ![](.gitbook/assets/ship_icon.png) | ![](.gitbook/assets/hats_icon.png) |
 
-<td>
-<img src="_media/hats_icon.png">
-</td>
+[Get Started](_coverpage.md#/?id=ships-and-hats)
 
-</tr>
-</table>
-
-<a href="#/?id=ships-and-hats" style="background:#42b983;color:white;">Get Started</a>
