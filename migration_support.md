@@ -1,40 +1,43 @@
-# Migration and support
------------------------
+# migration\_support
 
-# Migration from existing workload
+## Migration and support
 
-### i) Bamboo
-- Supports migration from Bamboo v.6.4.0<strong><sup>*</sup></strong>only
-- Migration from other CI tools will not be supported
+## Migration from existing workload
 
-<i><small>*SHIP Team will attempt to port over other Bamboo versions through best effort. Take note that the it may not be successfully migrated.</small></i>
+### i\) Bamboo
 
-### ii) Bitbucket
-- Any Git-based version control system can be ported to Bitbucket
-- Non-Git-based code can be checked into Bitbucket, but commit history will not be preserved
+* Supports migration from Bamboo v.6.4.0**\***only
+* Migration from other CI tools will not be supported
 
-### iii) Confluence
-- Spaces can be imported from Confluence versions 6.13 to 6.15<strong><sup>*</sup></strong>
-- Exports to PDF and Word documents can be directly imported into Confluence
+\*SHIP Team will attempt to port over other Bamboo versions through best effort. Take note that the it may not be successfully migrated.
 
-### iv) JIRA
-- Jira tickets can be exported from existing systems and imported into SHIP 
-- Existing Projects and Workflows will not be ported over
+### ii\) Bitbucket
 
-<i><small>*Versions indicated may be updated over time, and subjected to product availability. For more information, please contact <a href="mailto:enquiries_SHIP@tech.gov.com">SHIP team</a>.</small></i>
+* Any Git-based version control system can be ported to Bitbucket
+* Non-Git-based code can be checked into Bitbucket, but commit history will not be preserved
 
-***
+### iii\) Confluence
 
-# Support
+* Spaces can be imported from Confluence versions 6.13 to 6.15**\***
+* Exports to PDF and Word documents can be directly imported into Confluence
 
-| Severity level | Description                                    | Examples                         | Resolution Time                              |
-|----------------|------------------------------------------------|----------------------------------|----------------------------------------------|
-| 1              | Error prevents all use of Service              | VPN goes down                    | 1-3 business days                            |
-| 2              | Error disables major functions of the Services | Technical issues involving tools | 4-6 business days                            |
-| 3              | Error disables minor functions of the Services |                                  | Subjected to GovTech's reasonable discretion |
+### iv\) JIRA
 
+* Jira tickets can be exported from existing systems and imported into SHIP 
+* Existing Projects and Workflows will not be ported over
 
-<strong>Service Request, User Manual & On-boarding Documents (For SHIP users only)</strong>
-- [Service Desk](https://jira.ship.gov.sg/servicedesk/customer/portal/11)
-- [User Manual & On-boarding Documents](https://confluence.ship.gov.sg/display/SHIP/SHIP+Home)
+\*Versions indicated may be updated over time, and subjected to product availability. For more information, please contact [SHIP team](mailto:enquiries_SHIP@tech.gov.com).
+
+## Support
+
+| Severity level | Description | Examples | Resolution Time |
+| :--- | :--- | :--- | :--- |
+| 1 | Error prevents all use of Service | VPN goes down | 1-3 business days |
+| 2 | Error disables major functions of the Services | Technical issues involving tools | 4-6 business days |
+| 3 | Error disables minor functions of the Services |  | Subjected to GovTech's reasonable discretion |
+
+**Service Request, User Manual & On-boarding Documents \(For SHIP users only\)**
+
+* [Service Desk](https://jira.ship.gov.sg/servicedesk/customer/portal/11)
+* [User Manual & On-boarding Documents](https://confluence.ship.gov.sg/display/SHIP/SHIP+Home)
 
